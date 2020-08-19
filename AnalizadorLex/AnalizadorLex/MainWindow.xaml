@@ -13,6 +13,8 @@
             </Button>
             <Image Height="82" Canvas.Left="10" Canvas.Top="13" Width="69" Source="icons/analizador copia.png"/>
             <Label Content="Lexico" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="25" FontFamily="Consolas" FontWeight="Bold" Canvas.Left="122" Canvas.Top="53"/>
+            <Label Content="Nota: Usar Q. para dinero" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="13" FontFamily="Consolas" Canvas.Top="455" Canvas.Left="2"/>
+            <Label Content="Jeffrey Menendez 201930643" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="13" FontFamily="Consolas" Canvas.Top="455" Canvas.Left="542"/>
         </Canvas>
         <Label Content="Resultados" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="25" FontFamily="Consolas" FontWeight="Bold" Margin="460,55,0,0"/>
         <Canvas HorizontalAlignment="Left" Height="20" Margin="0,485,0,0" VerticalAlignment="Top" Width="754" Background="#FF1ECDFA"/>

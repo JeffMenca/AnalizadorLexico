@@ -1,8 +1,20 @@
 ﻿<Window x:Class="AnalizadorLex.SplashScreen"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="SplashScreen" Height="300" Width="300">
-    <Grid Margin="0,0,-119,0">
-        
+        Title="SplashScreen" Height="300" Width="381" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" Loaded="Window_Loaded_1" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,10,0">
+        <Image HorizontalAlignment="Left" Height="132" Margin="128,69,0,0" VerticalAlignment="Top" Width="128" Source="icons/analizador copia.png"/>
+        <ProgressBar x:Name="pb_loading" HorizontalAlignment="Left" Height="13" Margin="86,210,0,0" VerticalAlignment="Top" Width="206" Background="{x:Null}" BorderBrush="#FF1ECDFA" Foreground="#FF1ECDFA" RenderTransformOrigin="0.5,0.5" BorderThickness="2">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.209"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Label Content="Jeffrey Menendez 201930643" HorizontalAlignment="Left" Margin="94,235,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Consolas" FontWeight="Bold" FontSize="13"/>
+
     </Grid>
 </Window>

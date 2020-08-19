@@ -11,3 +11,5 @@ C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexic
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.exe
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.pdb
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.baml
+C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.g.cs
