@@ -2,7 +2,9 @@ C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexic
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\bin\Debug\AnalizadorLex.exe
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\bin\Debug\AnalizadorLex.pdb
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\MainWindow.baml
+C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.baml
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.g.cs
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\App.g.cs
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex_MarkupCompile.cache
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.g.resources
@@ -10,6 +12,3 @@ C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexic
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.csproj.GenerateResource.Cache
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.exe
 C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.pdb
-C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\AnalizadorLex.csprojResolveAssemblyReference.cache
-C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.baml
-C:\Users\Jeffrey\Documents\Visual Studio 2012\Projects\Practica1\AnalizadorLexico\AnalizadorLex\AnalizadorLex\obj\Debug\SplashScreen.g.cs

@@ -41,10 +41,10 @@ namespace AnalizadorLex
                     double valorDecimal = 0.00;
                     //Analiza si es numero
                     if (int.TryParse(palabras[i], out valorNumerico))
-                        lvResultados.Items.Add(new MyItem { Lexema = palabras[i], Tipo = "Numero" });
+                        lvResultados.Items.Add(new items { Lexema = palabras[i], Tipo = "Numero" });
                     //Analiza si es decimal
                     else if (Double.TryParse(palabras[i], out valorDecimal))
-                        lvResultados.Items.Add(new MyItem { Lexema = palabras[i], Tipo = "Decimal" });
+                        lvResultados.Items.Add(new items { Lexema = palabras[i], Tipo = "Decimal" });
                     else
                     {
                         char[] charArr = palabras[i].ToCharArray();
@@ -52,14 +52,14 @@ namespace AnalizadorLex
                         {
                             //Analiza si es dinero o una palabra
                             if ((charArr[0].Equals('Q')) && (charArr[1].Equals('.')))
-                                lvResultados.Items.Add(new MyItem { Lexema = palabras[i], Tipo = "Dinero" });
+                                lvResultados.Items.Add(new items { Lexema = palabras[i], Tipo = "Dinero" });
                             else
-                                lvResultados.Items.Add(new MyItem { Lexema = palabras[i], Tipo = "Palabra" });
+                                lvResultados.Items.Add(new items { Lexema = palabras[i], Tipo = "Palabra" });
                         }
                         catch (Exception)
                         {
                             //Analiza si es una palabra
-                            lvResultados.Items.Add(new MyItem { Lexema = palabras[i], Tipo = "Palabra" });
+                            lvResultados.Items.Add(new items { Lexema = palabras[i], Tipo = "Palabra" });
                             throw;
                         }
                     }
@@ -67,7 +67,7 @@ namespace AnalizadorLex
             }
         }
         //Clase con los objetos de la tabla
-        public class MyItem
+        public class items
         {
             //atributos de la tabla
             public string Lexema { get; set; }
